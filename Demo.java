@@ -2,5 +2,6 @@ public class Demo{
     public static void main(String[] args){
         System.out.println("Hi this is my first program");
         System.out.println("Hi this second line of code");
+        System.out.println("Test code");
     }
 }
